@@ -1,0 +1,111 @@
+META DATA:
+200
+32
+2020-01-01Т12:51:32.124Z – [username1] - wanna top up 10l
+2020-01-01Т12:51:34.769Z – [username2] - wanna scoop 50l
+2020-01-01Т12:51:35.769Z – [username3] - wanna top up 50l
+2020-01-01Т12:51:38.769Z – [username1] - wanna scoop 30l
+2020-01-01Т12:51:39.769Z – [username3] - wanna top up 40l
+2020-01-01Т12:51:39.789Z – [username2] - wanna scoop 10l
+2020-01-01Т12:55:32.124Z – [username1] - wanna top up 10l
+2020-01-01Т12:55:34.769Z – [username2] - wanna scoop 50l
+2020-01-01Т12:56:35.769Z – [username3] - wanna top up 50l
+2020-01-01Т12:57:38.769Z – [username1] - wanna scoop 30l
+2020-01-01Т12:58:39.769Z – [username3] - wanna top up 40l
+2020-01-01Т12:58:39.789Z – [username2] - wanna scoop 10l
+2020-01-01Т12:55:32.124Z – [username1] - wanna top up 10l
+2020-01-01Т13:55:34.769Z – [username2] - wanna scoop 50l
+2020-01-01Т13:56:35.769Z – [username3] - wanna top up 50l
+2020-01-01Т13:57:38.769Z – [username1] - wanna scoop 30l
+2020-01-01Т13:58:39.769Z – [username3] - wanna top up 40l
+2020-01-01Т13:58:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:51:32.124Z – [username1] - wanna top up 10l
+2020-02-01Т12:51:34.769Z – [username2] - wanna scoop 50l
+2020-02-01Т12:51:35.769Z – [username3] - wanna top up 50l
+2020-02-01Т12:51:38.769Z – [username1] - wanna scoop 30l
+2020-02-01Т12:51:39.769Z – [username3] - wanna top up 40l
+2020-02-01Т12:51:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:55:32.124Z – [username1] - wanna top up 10l
+2020-02-01Т12:55:34.769Z – [username2] - wanna scoop 50l
+2020-02-01Т12:56:35.769Z – [username3] - wanna top up 50l
+2020-02-01Т12:57:38.769Z – [username1] - wanna scoop 30l
+2020-02-01Т12:58:39.769Z – [username3] - wanna top up 40l
+2020-02-01Т12:58:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:55:32.124Z – [username1] - wanna top up 10l
+2020-02-01Т13:55:34.769Z – [username2] - wanna scoop 50l
+2020-02-01Т13:56:35.769Z – [username3] - wanna top up 50l
+2020-02-01Т13:57:38.769Z – [username1] - wanna scoop 30l
+2020-02-01Т13:58:39.769Z – [username3] - wanna top up 40l
+2020-02-01Т13:58:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:51:32.124Z – [username1] - wanna top up 10l
+2020-02-01Т12:51:34.769Z – [username2] - wanna scoop 50l
+2020-02-01Т12:51:35.769Z – [username3] - wanna top up 50l
+2020-02-01Т12:51:38.769Z – [username1] - wanna scoop 30l
+2020-02-01Т12:51:39.769Z – [username3] - wanna top up 40l
+2020-02-01Т12:51:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:55:32.124Z – [username1] - wanna top up 10l
+2020-02-01Т12:55:34.769Z – [username2] - wanna scoop 50l
+2020-02-01Т12:56:35.769Z – [username3] - wanna top up 500l
+2020-02-01Т12:57:38.769Z – [username1] - wanna scoop 300l
+2020-02-01Т12:58:39.769Z – [username3] - wanna top up 40l
+2020-02-01Т12:58:39.789Z – [username2] - wanna scoop 10l
+2020-02-01Т12:55:32.124Z – [username1] - wanna top up 100l
+2020-02-01Т13:55:33.769Z – [username2] - wanna scoop 500l
+2020-02-01Т13:56:55.769Z – [username3] - wanna top up 150l
+2020-02-01Т13:57:22.769Z – [username1] - wanna scoop 130l
+2020-02-01Т13:58:23.769Z – [username3] - wanna top up 140l
+2020-02-01Т13:58:49.789Z – [username2] - wanna scoop 110l
+2020-01-02Т12:51:32.124Z – [username1] - wanna top up 1l
+2020-01-02Т12:51:34.769Z – [username2] - wanna scoop 22l
+2020-01-02Т12:51:35.769Z – [username3] - wanna top up 11l
+2020-01-02Т12:51:38.769Z – [username1] - wanna scoop 1l
+2020-01-02Т12:51:39.769Z – [username3] - wanna top up 8l
+2020-01-02Т12:51:39.789Z – [username2] - wanna scoop 7l
+2020-01-02Т12:55:32.124Z – [username1] - wanna top up 9l
+2020-01-02Т12:55:34.769Z – [username2] - wanna scoop 8l
+2020-01-02Т12:56:35.769Z – [username3] - wanna top up 8l
+2020-01-02Т12:57:38.769Z – [username1] - wanna scoop 5l
+2020-01-02Т12:58:39.769Z – [username3] - wanna top up 4l
+2020-01-02Т12:58:39.789Z – [username2] - wanna scoop 1l
+2020-01-02Т12:55:32.124Z – [username1] - wanna top up 1l
+2020-01-02Т13:55:34.769Z – [username2] - wanna scoop 3l
+2020-01-02Т13:56:35.769Z – [username3] - wanna top up 44l
+2020-01-02Т13:57:38.769Z – [username1] - wanna scoop 13l
+2020-01-02Т13:58:39.769Z – [username3] - wanna top up 12l
+2020-01-02Т13:58:39.789Z – [username2] - wanna scoop 10l
+2020-02-02Т12:51:32.124Z – [username1] - wanna top up 5l
+2020-02-02Т12:51:34.769Z – [username2] - wanna scoop 8l
+2020-02-02Т12:51:35.769Z – [username3] - wanna top up 7l
+2020-02-02Т12:51:38.769Z – [username1] - wanna scoop 5l
+2020-02-02Т12:51:39.769Z – [username3] - wanna top up 3l
+2020-02-02Т12:51:39.789Z – [username2] - wanna scoop 4l
+2020-02-02Т12:55:32.124Z – [username1] - wanna top up 2l
+2020-02-02Т12:55:34.769Z – [username2] - wanna scoop 30l
+2020-02-02Т12:56:35.769Z – [username3] - wanna top up 5l
+2020-02-02Т12:57:38.769Z – [username1] - wanna scoop 3l
+2020-02-02Т12:58:39.769Z – [username3] - wanna top up 35l
+2020-02-02Т12:58:39.789Z – [username2] - wanna scoop 66l
+2020-02-02Т12:55:32.124Z – [username1] - wanna top up 46l
+2020-02-02Т13:55:34.769Z – [username2] - wanna scoop 44l
+2020-02-02Т13:56:35.769Z – [username3] - wanna top up 75l
+2020-02-02Т13:57:38.769Z – [username1] - wanna scoop 14l
+2020-02-02Т13:58:39.769Z – [username3] - wanna top up 40l
+2020-02-02Т13:58:39.789Z – [username2] - wanna scoop 33l
+2020-02-02Т12:51:32.124Z – [username1] - wanna top up 22l
+2020-02-02Т12:51:34.769Z – [username2] - wanna scoop 10l
+2020-02-02Т12:51:35.769Z – [username3] - wanna top up 52l
+2020-02-02Т12:51:38.769Z – [username1] - wanna scoop 3l
+2020-02-02Т12:51:39.769Z – [username3] - wanna top up 4l
+2020-02-02Т12:51:39.789Z – [username2] - wanna scoop 10l
+2020-02-02Т12:55:32.124Z – [username1] - wanna top up 13l
+2020-02-02Т12:55:34.769Z – [username2] - wanna scoop 14l
+2020-02-02Т12:56:35.769Z – [username3] - wanna top up 12l
+2020-02-02Т12:57:38.769Z – [username1] - wanna scoop 3l
+2020-02-02Т12:58:39.769Z – [username3] - wanna top up 2l
+2020-02-02Т12:58:39.789Z – [username2] - wanna scoop 1l
+2020-02-02Т12:55:32.124Z – [username1] - wanna top up 77l
+2020-02-02Т13:55:33.769Z – [username2] - wanna scoop 55l
+2020-02-02Т13:56:55.769Z – [username3] - wanna top up 6l
+2020-02-02Т13:57:22.769Z – [username1] - wanna scoop 5l
+2020-02-02Т13:58:23.769Z – [username3] - wanna top up 12l
+2020-02-02Т13:58:49.789Z – [username2] - wanna scoop 13l
